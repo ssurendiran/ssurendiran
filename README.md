@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **Developing, refactoring  automation frameworks and setting up and monitoring environments**
 
-- 🌱 I’m currently learning **python, fast api, Mlflow, Langchain/graph, Agents **
+- 🌱 I’m currently learning ** AI E2E Engineering **
 
-- 👯 I’m looking to collaborate on **MLops & LLmops**
+- 👯 I’m looking to collaborate on ** AI Engineering**
 
 - 🤔 I’m looking for help with  **AI Topics**
 
