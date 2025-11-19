@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surendiran Selvam</h1>
-<h3 align="center">AI Engineer — Building Agents, Infra, and End-to-End AI Systems</h3>
+<h3 align="center">AI Engineer — Agents | Infra | LLMOps | RAG</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/surendiran-selvam1/" target="blank">
@@ -9,33 +9,46 @@
 
 ---
 
-### 🚀 What I'm Working On
-- Architecting **end-to-end AI systems**  
-- Building **LLM agents & multi-agent workflows**  
-- Designing **AI infrastructure with FastAPI, Docker, Kubernetes**  
-- Developing **RAG pipelines, vector search, embeddings & LLM orchestration**
-
-### 📚 What I'm Learning
-- **AI Platform Engineering**
-- **LLMOps & MLOps**
-- **RAG systems, vLLM, ONNX, TensorRT**
-- **Cloud-native AI Infra (GCP, Azure)**
-
-### 🤝 Open to Collaborations In
-- AI Agents  
-- AI Infrastructure  
-- RAG systems  
-- LLMOps & Deployment  
-- Full AI project lifecycle (from data to production)
-
-### 💬 Ask Me About
-- LLMs, agents, AI infra  
-- RAG design  
-- Cloud-native AI deployments  
-- FastAPI, Docker, Kubernetes
-
-### 📫 Reach Me At
-**LinkedIn:** https://www.linkedin.com/in/surendiran-selvam1/
+### 🚀 What I'm Working On  
+- End-to-End **AI engineering**  
+- **LLM agents & multi-agent systems**  
+- **AI infrastructure** (FastAPI, Docker, Kubernetes, Cloud Run)  
+- **RAG pipelines**, vector search, embeddings, orchestration  
+- Highly reliable **AI platform components**
 
 ---
 
+### 🌐 My Portfolio  
+🔗 **https://surendiran.ai**
+
+---
+
+### 📚 What I'm Learning  
+- AI Platform Engineering  
+- LLMOps, Observability, Monitoring  
+- vLLM, ONNX, TensorRT  
+- Cloud-native AI deployments (GCP, Azure)
+
+---
+
+### 🤝 Open to Collaborations In  
+- AI Agents  
+- AI Infra  
+- RAG Systems  
+- LLM Deployment & Scaling  
+
+---
+
+### 💬 Ask Me About  
+- AI agents  
+- LLM orchestration  
+- RAG architectures  
+- AI infra & cloud deployments  
+
+---
+
+### 📫 Reach Me  
+**LinkedIn:** https://www.linkedin.com/in/surendiran-selvam1/  
+**Portfolio:** https://surendiran.ai  
+
+---
