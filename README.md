@@ -16,16 +16,16 @@ AI Platform & Infrastructure Architect — Agentic Systems | LLMOps | RAG | Clou
 
 ## 🧠 Current Focus (Last Few Years — AI Engineering)
 I design and build **production-grade AI platforms**, evolving from  
-**Hybrid RAG → Agentic RAG → Multi-Agent systems**, with an **infra-first, reliability-driven mindset**.
+**Hybrid RAG → Agentic RAG → Multi-Agent systems**, with a strong **infra-first and reliability-driven mindset**.
 
-My work today centers on:
-- 🤖 **Agentic AI & Multi-Agent orchestration**
+My work today focuses on:
+- 🤖 **Agentic AI & multi-agent orchestration**
 - 🧱 **AI platform & infrastructure engineering**
 - 🔎 **RAG systems** (hybrid retrieval, grounding, structured outputs)
 - ⚙️ **LLMOps** (evals, tracing, regression, prompt versioning)
-- ☁️ **Cloud-native deployments** (containerized, secure, scalable)
+- ☁️ **Cloud-native deployments** (secure, containerized, scalable)
 
-This is not experimentation — this is **platform engineering applied to AI**.
+This is **platform engineering applied to AI**, not experimentation.
 
 ---
 
@@ -36,7 +36,7 @@ Before specializing deeply in AI platforms, I spent years building:
 - **CI/CD pipelines & DevOps enablement**
 - **Reliability-focused quality systems**
 
-That background now directly informs how I architect AI systems:
+That foundation directly shapes how I architect AI systems today:
 **repeatable, observable, scalable, and production-safe**.
 
 ---
@@ -44,24 +44,24 @@ That background now directly informs how I architect AI systems:
 ## 🧰 Core Skills (Ranked by Strength)
 
 ### 🔹 Architect-Level / Primary
-- **Python**
-- **FastAPI & API platform design**
-- **Agentic systems (RAG, multi-agent workflows)**
-- **Docker & containerized deployments**
-- **LLMOps (evals, tracing, regression gates)**
+- Python
+- FastAPI & API platform design
+- Agentic systems (RAG, multi-agent workflows)
+- Docker & containerized deployments
+- LLMOps (evals, tracing, regression gates)
 
 ### 🔹 Strong Hands-On
-- **Kubernetes (foundations)**
-- **Vector search & retrieval systems**
-- **PostgreSQL (state, checkpoints)**
-- **Cloud platforms (GCP-focused)**
-- **CI/CD (GitHub Actions-style pipelines)**
+- Kubernetes (foundations)
+- Vector search & retrieval systems
+- PostgreSQL (state, checkpoints)
+- Cloud platforms (GCP-focused)
+- CI/CD (GitHub Actions-style pipelines)
 
 ### 🔹 Prior Heavy Experience (Foundation)
-- **Java**
-- **Automation frameworks (UI / API)**
-- **DevOps & release engineering**
-- **Developer productivity platforms**
+- Java
+- Automation frameworks (UI / API)
+- DevOps & release engineering
+- Developer productivity platforms
 
 ---
 
@@ -70,29 +70,47 @@ That background now directly informs how I architect AI systems:
   <img src="https://skillicons.dev/icons?i=python,java,ts,js,fastapi,docker,kubernetes,gcp,postgres,git,githubactions,linux,bash&perline=10" />
 </p>
 
-> AI-specific tools used extensively (non-icon):
-LangGraph • LangChain • LiteLLM • Qdrant • LangSmith • Streamlit • Caddy
+> **AI-specific tools used extensively (non-icon):**  
+> LangGraph · LangChain · LiteLLM · Qdrant · LangSmith · Streamlit · Caddy
 
 ---
 
 ## 📊 GitHub Stats & Contribution Rank
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ssurendiran&show_icons=true&include_all_commits=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssurendiran&layout=compact" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ssurendiran&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true"
+    height="160"
+    alt="GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=ssurendiran" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssurendiran&layout=compact&hide_border=true"
+    height="160"
+    alt="Top languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ssurendiran&row=1&column=6" />
+  <img
+    src="https://streak-stats.demolab.com?user=ssurendiran&hide_border=true"
+    height="170"
+    alt="GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ssurendiran&row=1&column=6&no-frame=true"
+    alt="GitHub trophies"
+  />
 </p>
 
 ---
 
 ## 🤝 Open To
-- AI Platform / Infrastructure Engineering roles
+- AI Platform / Infrastructure Engineering
 - Agentic & Multi-Agent systems
 - RAG systems at scale (quality, evals, reliability)
 - Cloud-native AI product engineering
