@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Surendiran Selvam</h1>
 <h3 align="center">
-AI Platform & Infrastructure Architect — Agentic Systems | LLMOps | RAG | Cloud-Native AI
+AI Platform & Infrastructure Lead — Agentic Systems | LLMOps | RAG | Multi Agent
 </h3>
 
 <p align="center">
