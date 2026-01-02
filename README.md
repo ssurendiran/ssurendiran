@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Surendiran Selvam</h1>
 <h3 align="center">
-AI Platform & Infrastructure Lead — Agentic Systems | LLMOps | RAG | Multi Agent
+AI Platform & Infrastructure Lead — Agentic Systems | LLMOps | RAG | MultiAgentSystems 
 </h3>
 
 <p align="center">
@@ -66,48 +66,56 @@ That foundation directly shapes how I architect AI systems today:
 ---
 
 ## 🧩 Frequent Tools & Technologies
+
+### Programming Languages & Core Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,fastapi,docker,kubernetes,gcp,postgres,git,githubactions,linux,bash&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,bash&perline=5" />
 </p>
 
-> **AI-specific tools used extensively (non-icon):**  
-> LangGraph · LangChain · LiteLLM · Qdrant · LangSmith · Streamlit · Caddy
+### AI & ML Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,streamlit,docker,kubernetes,gcp,postgres&perline=7" />
+</p>
+**AI-Specific Tools (No Icons Available):**
+- **LangChain / LangGraph** - Multi-agent orchestration & workflow management
+- **LiteLLM** - Unified LLM API with intelligent routing
+- **Qdrant** - Vector database for hybrid search
+- **LangSmith** - LLMOps observability & evaluation
+- **Caddy** - Reverse proxy & TLS termination
+- **OpenAI** - GPT models & embeddings
+- **Instructor** - Type-safe structured outputs
 
-> **Automation & DevOps tools (prior experience):**  
-> Selenium · REST Assured · Appium · JMeter · JUnit · TestNG · Maven · Jenkins · Azure DevOps · Elasticsearch · Prometheus · Git · Postman · Linux · Tomcat · WebLogic · Nginx
+### Automation & DevOps Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,selenium,jenkins,docker,kubernetes,elasticsearch,prometheus,git,githubactions,linux,nginx&perline=11" />
+</p>
+**Additional Automation & DevOps Tools:**
+- **REST Assured** - API testing framework
+- **Appium** - Mobile automation
+- **JMeter** - Performance testing
+- **JUnit / TestNG** - Unit testing frameworks
+- **Maven** - Build automation
+- **Azure DevOps** - DevOps platform
+- **Postman** - API development
+- **Tomcat / WebLogic** - Application servers
 
 ---
 
 ## 📊 GitHub Stats & Contribution Rank
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ssurendiran&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true"
-    height="160"
-    alt="GitHub stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ssurendiran&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=dark&hide=stars,prs,issues&show=repos,commits" height="160" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssurendiran&layout=compact&hide_border=true"
-    height="160"
-    alt="Top languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssurendiran&layout=compact&hide_border=true&theme=dark" height="160" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ssurendiran&hide_border=true"
-    height="170"
-    alt="GitHub streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=ssurendiran&hide_border=true&theme=dark" height="170" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ssurendiran&row=1&column=6&no-frame=true"
-    alt="GitHub trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=ssurendiran&row=1&column=6&no-frame=true&theme=dark" alt="GitHub trophies" />
 </p>
 
 ---
