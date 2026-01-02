@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Surendiran Selvam</h1>
 <h3 align="center">
-AI Platform & Infrastructure Lead — Agentic Systems | LLMOps | RAG | MultiAgentSystems 
+AI Platform & Infrastructure Architect — Agentic Systems | LLMOps | RAG | Cloud-Native AI
 </h3>
 
 <p align="center">
@@ -25,7 +25,7 @@ My work today focuses on:
 - ⚙️ **LLMOps** (evals, tracing, regression, prompt versioning)
 - ☁️ **Cloud-native deployments** (secure, containerized, scalable)
 
-This is **platform engineering applied to AI**
+This is **platform engineering applied to AI**, not experimentation.
 
 ---
 
@@ -69,8 +69,9 @@ That foundation directly shapes how I architect AI systems today:
 
 ### Programming Languages & Core Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,bash&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,java,bash&perline=3" />
 </p>
+> **Note:** TypeScript & JavaScript development is Cursor AI-assisted
 
 ### AI & ML Stack
 <p align="left">
@@ -103,7 +104,7 @@ That foundation directly shapes how I architect AI systems today:
 
 ## 📊 GitHub Stats & Contribution Rank
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssurendiran&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=dark&hide=stars,prs,issues&show=repos,commits" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ssurendiran&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=dark&hide=stars,prs,issues,contribs&show=repos,commits" height="160" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -114,9 +115,6 @@ That foundation directly shapes how I architect AI systems today:
   <img src="https://streak-stats.demolab.com?user=ssurendiran&hide_border=true&theme=dark" height="170" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ssurendiran&row=1&column=6&no-frame=true&theme=dark" alt="GitHub trophies" />
-</p>
 
 ---
 
