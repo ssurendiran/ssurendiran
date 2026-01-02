@@ -104,15 +104,15 @@ That foundation directly shapes how I architect AI systems today:
 
 ## 📊 GitHub Stats & Contribution Rank
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssurendiran&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=dark&hide=stars,prs,issues,contribs&show=repos,commits" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ssurendiran&show_icons=true&include_all_commits=true&hide=stars,prs,issues&show=repos,commits&theme=dark" height="160" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssurendiran&layout=compact&hide_border=true&theme=dark" height="160" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssurendiran&layout=compact&theme=dark" height="160" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ssurendiran&hide_border=true&theme=dark" height="170" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=ssurendiran&theme=dark" height="170" alt="GitHub streak" />
 </p>
 
 
