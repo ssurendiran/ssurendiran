@@ -73,6 +73,9 @@ That foundation directly shapes how I architect AI systems today:
 > **AI-specific tools used extensively (non-icon):**  
 > LangGraph · LangChain · LiteLLM · Qdrant · LangSmith · Streamlit · Caddy
 
+> **Automation & DevOps tools (prior experience):**  
+> Selenium · REST Assured · Appium · JMeter · JUnit · TestNG · Maven · Jenkins · Azure DevOps · Elasticsearch · Prometheus · Git · Postman · Linux · Tomcat · WebLogic · Nginx
+
 ---
 
 ## 📊 GitHub Stats & Contribution Rank
@@ -120,3 +123,7 @@ That foundation directly shapes how I architect AI systems today:
 ## 📫 Reach Me
 - **LinkedIn:** https://www.linkedin.com/in/surendiran-selvam1/
 - **Portfolio:** https://surendiran.ai
+- **Pronouns:** Suren
+
+---
+
