@@ -25,7 +25,7 @@ My work today focuses on:
 - ⚙️ **LLMOps** (evals, tracing, regression, prompt versioning)
 - ☁️ **Cloud-native deployments** (secure, containerized, scalable)
 
-This is **platform engineering applied to AI**, not experimentation.
+This is **platform engineering applied to AI**
 
 ---
 
