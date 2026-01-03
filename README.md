@@ -71,7 +71,7 @@ That foundation directly shapes how I architect AI systems today:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,bash&perline=3" />
 </p>
-> **Note:** TypeScript & JavaScript development is Cursor AI-assisted
+> **Note:** TypeScript & JavaScript development is mostly Cursor AI-assisted, as I am not an expert in these languages.
 
 ### AI & ML Stack
 <p align="left">
@@ -132,4 +132,3 @@ That foundation directly shapes how I architect AI systems today:
 - **Pronouns:** Suren
 
 ---
-
