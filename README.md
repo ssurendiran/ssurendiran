@@ -46,7 +46,7 @@ That foundation shapes how I architect AI systems today:
 
 ---
 
-## 🧰 Core Skills (Ranked by Strength)
+## 🧰 Core Skills
 
 ### 🔹 Architect-Level / Primary
 - **Python**
