@@ -50,7 +50,7 @@ I lead small teams (**3–5 engineers**) and stay hands-on—shipping reliable A
 
 ---
 
-## 🧰 Core Stack (Icons)
+## 🧰 Core Stack
 
 ### Platform / Infra
 <p align="left">
