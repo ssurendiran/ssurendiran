@@ -17,7 +17,7 @@ Senior AI Platform Engineer / Technical Lead — Agentic RAG | Multi-Agent Syste
 
 ## 🧠 Current Focus (Last 3+ Years — AI Platform Engineering)
 
-Senior AI Platform Engineer / Technical Lead with **10+ years building scalable engineering systems** and the last **3+ years delivering enterprise GenAI platforms** in regulated environments. :contentReference[oaicite:0]{index=0}
+Senior AI Platform Engineer / Technical Lead with **10+ years building scalable engineering systems** and the last **3+ years delivering enterprise GenAI platforms** in regulated environments.
 
 I design and build **production-grade AI platforms**, evolving from:  
 **Hybrid RAG → Agentic RAG → Multi-Agent systems**, with an **infra-first and reliability-driven mindset**.
@@ -85,14 +85,14 @@ That foundation shapes how I architect AI systems today:
 </p>
 
 **AI Tools**
-- **LangChain / LangGraph** — agent orchestration & workflows  
-- **LiteLLM** — unified LLM routing  
-- **Qdrant** — hybrid vector search  
-- **LangSmith** — observability & evaluation  
-- **Instructor** — structured outputs  
-- **HuggingFace TEI / SentenceTransformers** — encoders & cross-encoders  
-- **vLLM** — high-performance inference  
-- **RAGAS** — retrieval & generation evaluation  
+- **LangChain / LangGraph** — agent orchestration & workflows
+- **LiteLLM** — unified LLM routing
+- **Qdrant** — hybrid vector search
+- **LangSmith** — observability & evaluation
+- **Instructor** — structured outputs
+- **HuggingFace TEI / SentenceTransformers** — encoders & cross-encoders
+- **vLLM** — high-performance inference
+- **RAGAS** — retrieval & generation evaluation
 
 ### DevOps, Automation & Observability
 <p align="left">
@@ -114,12 +114,12 @@ That foundation shapes how I architect AI systems today:
 **Enterprise GenAI | Agentic Workflows | Multi-Agent Orchestration | Hybrid RAG**
 
 Built & shipped a **multi-agent RAG platform** on GCP using:
-- **LangGraph** multi-agent orchestration  
-- **Qdrant hybrid retrieval** (BM25 + embeddings + RRF)  
-- **Tool calling + structured outputs**  
-- **Stateful agents** with **PostgreSQL persistence**  
-- **CI/CD eval gates** + **LLMOps observability**  
-- Live demo scale: **500 products / 45K+ reviews**  
+- **LangGraph** multi-agent orchestration
+- **Qdrant hybrid retrieval** (BM25 + embeddings + RRF)
+- **Tool calling + structured outputs**
+- **Stateful agents** with **PostgreSQL persistence**
+- **CI/CD eval gates** + **LLMOps observability**
+- Live demo scale: **500 products / 45K+ reviews**
 
 👉 Repo + Live Demo + Architecture on my portfolio
 
@@ -150,6 +150,6 @@ Built & shipped a **multi-agent RAG platform** on GCP using:
 ---
 
 ## 📫 Reach Me
-- **LinkedIn:** https://www.linkedin.com/in/surendiran-selvam1/  
-- **Portfolio:** https://surendiran.ai  
+- **LinkedIn:** https://www.linkedin.com/in/surendiran-selvam1/
+- **Portfolio:** https://surendiran.ai
 - **Pronouns:** Suren
