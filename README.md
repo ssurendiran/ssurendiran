@@ -57,6 +57,14 @@ I lead small teams (**3–5 engineers**) and stay hands-on—shipping reliable A
 
 ---
 
+## 🎓 Certifications
+
+- **Google Cloud Professional Machine Learning Engineer (2025)**
+- **Certified Kubernetes Administrator (CKA) (2025)**
+- **Microsoft AI-900: Azure AI Fundamentals (2025)**
+
+---
+
 ## 🧰 Core Stack (Clickable Icons)
 
 ### Platform / Infra
@@ -72,6 +80,9 @@ I lead small teams (**3–5 engineers**) and stay hands-on—shipping reliable A
   </a>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
+  </a>
+  <a href="https://helm.sh/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=helm" alt="Helm" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
@@ -119,7 +130,7 @@ I lead small teams (**3–5 engineers**) and stay hands-on—shipping reliable A
 - **Cross-Encoder (Reranking):** **BGE Reranker**
 - **Sentence-Transformers** in the application layer
 - At scale: **Hugging Face TEI** services
-- **Classifier:** **BGE embeddings** with **optional cross-encoder validation** (higher precision routing)
+- **Classifier:** **BGE embeddings** with **optional cross-encoder validation**
 
 ---
 
