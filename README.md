@@ -5,15 +5,22 @@ Senior AI Engineer / Tech Lead — LLMOps • AgentOps • Agentic RAG • Multi
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/surendiran-selvam1/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/surendiran-selvam1/">
     <img src="https://img.shields.io/badge/LinkedIn-Surendiran%20Selvam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://surendiran.ai" target="_blank" rel="noreferrer">
+  <a href="https://surendiran.ai">
     <img src="https://img.shields.io/badge/Portfolio-surendiran.ai-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:contact@surendiran.ai" target="_blank" rel="noreferrer">
+  <a href="mailto:contact@surendiran.ai">
     <img src="https://img.shields.io/badge/Email-contact%40surendiran.ai-22C55E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
+<p align="center">
+  <b>Links:</b>
+  <a href="https://www.linkedin.com/in/surendiran-selvam1/">LinkedIn</a> •
+  <a href="https://surendiran.ai">Portfolio</a> •
+  <a href="mailto:contact@surendiran.ai">Email</a>
 </p>
 
 ---
@@ -42,11 +49,11 @@ I lead small teams (**3–5 engineers**) and stay hands-on—shipping reliable A
 
 ## 📈 Impact Highlights
 
-- **Cut ingestion runtime 35–45%** and improved KB quality via extraction/normalization standards
-- **Improved hybrid retrieval 25–35%**, reduced false positives **20–30%**, improved precision
-- **Reduced P95 latency 20–25%** and cut triage time **50–60%** using trace/log-driven troubleshooting
-- Delivered **policy-aware agent workflows ~90% accuracy**, serving **hundreds of daily users**
-- Drove ~**40% cost reduction** through vendor/tooling decisions while maintaining quality
+- **Cut ingestion runtime 35–45%** and improved KB quality via extraction/normalization standards  
+- **Improved hybrid retrieval 25–35%**, reduced false positives **20–30%**, improved precision  
+- **Reduced P95 latency 20–25%** and cut triage time **50–60%** using trace/log-driven troubleshooting  
+- Delivered **policy-aware agent workflows ~90% accuracy**, serving **hundreds of daily users**  
+- Drove ~**40% cost reduction** through vendor/tooling decisions while maintaining quality  
 
 ---
 
@@ -73,13 +80,13 @@ I lead small teams (**3–5 engineers**) and stay hands-on—shipping reliable A
 - **Decoder (LLM):** **Llama 3.x / 4.x Instruct (8B)** via **vLLM**
 - **Encoder (Embeddings):** **BAAI BGE v1.x**
 - **Cross-Encoder (Reranking):** **BGE Reranker**
-- **Sentence-Transformers** in the application layer
-- At scale: **Hugging Face TEI** services
-- **Classifier:** **BGE embeddings** with **optional cross-encoder validation** (higher precision routing)
+- **Sentence-Transformers** in the application layer  
+- At scale: **Hugging Face TEI** services  
+- **Classifier:** **BGE embeddings** with **optional cross-encoder validation**
 
 ---
 
-## 🧩 Tools 
+## 🧩 Tools
 
 - **LangGraph / LangChain** — multi-agent orchestration & workflows
 - **Qdrant** — vector DB + hybrid search
@@ -106,22 +113,25 @@ A production-style **multi-agent RAG platform** built on **GCP**, featuring:
 - **Provider routing** (cloud + local) and **observability-first design**
 - Demo scale: **500 products / 45,948 reviews**
 
-👉 **Portfolio:** https://surendiran.ai
+👉 Portfolio: https://surendiran.ai
 
 ---
 
 ## 🧩 Keywords
+
 **Agentic RAG • Multi-Agent Systems • LangGraph • LangChain • Qdrant • Hybrid Search • BM25 • RRF • Reranking • BGE • SentenceTransformers • LiteLLM • vLLM • TEI • LangSmith • RAGAS • LLM-as-Judge • Guardrails • PII Redaction • Observability • Python • FastAPI • Docker • Kubernetes • Helm • PostgreSQL • CI/CD**
 
 ---
 
 ## 🤝 Open To (Remote • Global)
+
 **AI Engineer • Senior AI Engineer • GenAI Engineer • LLM Engineer • AI Platform Engineer • LLMOps/AgentOps Engineer • Backend Engineer (AI) • AI Evaluations Engineer**
 
 ---
 
 ## 📫 Reach Me
-- **Email:** contact@surendiran.ai
-- **LinkedIn:** https://www.linkedin.com/in/surendiran-selvam1/
-- **Portfolio:** https://surendiran.ai
+
+- **Email:** contact@surendiran.ai  
+- **LinkedIn:** https://www.linkedin.com/in/surendiran-selvam1/  
+- **Portfolio:** https://surendiran.ai  
 - **Pronouns:** Suren
