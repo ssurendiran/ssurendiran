@@ -1,158 +1,155 @@
-👋 Hi, I'm Surendiran Selvam
-Senior AI Platform Engineer / Technical Lead
+<h1 align="center">Hi 👋, I'm Surendiran Selvam</h1>
+
+<h3 align="center">
+Senior AI Platform Engineer / Technical Lead — Agentic RAG | Multi-Agent Systems | LLMOps | AI Infrastructure
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/surendiran-selvam1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Surendiran%20Selvam-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://surendiran.ai" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-surendiran.ai-0A0A0A?style=flat&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-Agentic RAG | Multi-Agent Systems | LLMOps | AI Infrastructure
+---
 
-<p align="center"> <a href="https://www.linkedin.com/in/surendiran-selvam1/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Surendiran%20Selvam-blue?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="https://surendiran.ai" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-surendiran.ai-0A0A0A?style=flat&logo=vercel&logoColor=white" /> </a> </p>
-🧠 Current Focus — AI Platform Engineering (Last 3+ Years)
+## 🧠 Current Focus (Last 3+ Years — AI Platform Engineering)
 
-Senior AI Platform Engineer / Technical Lead with 10+ years building scalable engineering systems and the last 3+ years delivering enterprise GenAI platforms in regulated environments.
+Senior AI Platform Engineer / Technical Lead with **10+ years building scalable engineering systems** and the last **3+ years delivering enterprise GenAI platforms** in regulated environments. :contentReference[oaicite:0]{index=0}
 
-I design and build production-grade AI platforms, evolving from
-Hybrid RAG → Agentic RAG → Multi-Agent systems, with a strong infra-first and reliability-driven mindset.
+I design and build **production-grade AI platforms**, evolving from:  
+**Hybrid RAG → Agentic RAG → Multi-Agent systems**, with an **infra-first and reliability-driven mindset**.
 
-What I focus on today
+### What I focus on today
+- 🤖 **Agentic AI & multi-agent orchestration (LangGraph)**
+- 🧱 **AI platform & infrastructure engineering**
+- 🔎 **RAG systems at scale** (**hybrid retrieval**, grounding, structured outputs)
+- ⚙️ **LLMOps** (**evals**, tracing, regression gates, prompt versioning)
+- ☁️ **Cloud-native deployments** (secure, containerized, scalable)
 
-🤖 Agentic AI & multi-agent orchestration (LangGraph)
+> **Platform engineering applied to AI — not experimentation.**
 
-🧱 AI platform & infrastructure engineering
+---
 
-🔎 RAG systems at scale (hybrid retrieval, grounding, structured outputs)
+## 🏗️ Engineering Foundation (Earlier Years)
 
-⚙️ LLMOps (evals, tracing, regression gates, prompt versioning)
+Before specializing deeply in AI platforms, I built:
+- **Automation platforms & shared frameworks**
+- **Developer productivity tooling**
+- **CI/CD pipelines & DevOps enablement**
+- **Reliability-focused quality systems**
 
-☁️ Cloud-native deployments (secure, containerized, scalable)
+That foundation shapes how I architect AI systems today:
+> **Repeatable. Observable. Scalable. Production-safe.**
 
-This is platform engineering applied to AI, not experimentation.
+---
 
-🏗️ Engineering Foundation (Earlier Years)
+## 🧰 Core Skills (Ranked by Strength)
 
-Before specializing deeply in AI platforms, I spent years building:
+### 🔹 Architect-Level / Primary
+- **Python**
+- **FastAPI & API platform design**
+- **Agentic systems** (RAG, multi-agent workflows)
+- **LLMOps** (RAGAS, LLM-as-Judge, evals, tracing, regression gates)
+- **AI governance** (guardrails, PII redaction, bias mitigation)
 
-Automation platforms & shared frameworks
+### 🔹 Strong Hands-On
+- **Kubernetes & Helm** (platform deployments, shared services)
+- **Vector search & retrieval systems** (Qdrant, Hybrid Search, RRF)
+- **PostgreSQL** (state, checkpoints, metadata)
+- **Cloud platforms** (GCP-focused)
+- **CI/CD** (GitHub Actions, Jenkins, Azure Pipelines)
 
-Developer productivity tooling
+### 🔹 Prior Heavy Experience (Foundation)
+- **Java**
+- **Automation frameworks** (UI / API)
+- **DevOps & release engineering**
+- **Developer productivity platforms**
 
-CI/CD pipelines & DevOps enablement
+---
 
-Reliability-focused quality systems
+## 🧩 Tech Stack
 
-That foundation directly shapes how I architect AI systems today:
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,bash&perline=3" />
+</p>
 
-Repeatable. Observable. Scalable. Production-safe.
+> **TypeScript/JavaScript:** production integration & maintenance (**AI-assisted for speed**). Primary depth in **Python/Java**.
 
-🧰 Core Skills (Aligned with Resume)
-🔹 Architect-Level / Primary
+### AI & Platform Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,gcp,postgres&perline=6" />
+</p>
 
-Python
+**AI Tools**
+- **LangChain / LangGraph** — agent orchestration & workflows  
+- **LiteLLM** — unified LLM routing  
+- **Qdrant** — hybrid vector search  
+- **LangSmith** — observability & evaluation  
+- **Instructor** — structured outputs  
+- **HuggingFace TEI / SentenceTransformers** — encoders & cross-encoders  
+- **vLLM** — high-performance inference  
+- **RAGAS** — retrieval & generation evaluation  
 
-FastAPI & API platform design
+### DevOps, Automation & Observability
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,elasticsearch,prometheus,linux,nginx&perline=6" />
+</p>
 
-Agentic systems (RAG, multi-agent workflows)
+- **Jenkins, GitHub Actions, Azure Pipelines**
+- **ELK Stack, Prometheus, Grafana**
+- **Caddy / Nginx** — TLS termination, reverse proxy
+- **Secrets management, rate limiting, audit logging**
+- **Selenium, REST Assured, JMeter**
 
-LLMOps (RAGAS, LLM-as-Judge, evals, tracing, regression gates)
+---
 
-AI governance (guardrails, PII redaction, bias mitigation)
+## 🚀 Featured Project — Live
 
-🔹 Strong Hands-On
+### 🧠 Multi-Agent Product Intelligence Platform (GCP)
 
-Kubernetes & Helm (platform deployments, shared services)
+**Enterprise GenAI | Agentic Workflows | Multi-Agent Orchestration | Hybrid RAG**
 
-Vector search & retrieval systems (Qdrant, Hybrid Search, RRF)
+Built & shipped a **multi-agent RAG platform** on GCP using:
+- **LangGraph** multi-agent orchestration  
+- **Qdrant hybrid retrieval** (BM25 + embeddings + RRF)  
+- **Tool calling + structured outputs**  
+- **Stateful agents** with **PostgreSQL persistence**  
+- **CI/CD eval gates** + **LLMOps observability**  
+- Live demo scale: **500 products / 45K+ reviews**  
 
-PostgreSQL (state, checkpoints, metadata)
+👉 Repo + Live Demo + Architecture on my portfolio
 
-Cloud platforms (GCP-focused)
+---
 
-CI/CD (GitHub Actions, Jenkins, Azure Pipelines)
+## 📊 GitHub Stats
 
-🔹 Prior Heavy Experience (Foundation)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ssurendiran&show_icons=true&include_all_commits=true&hide=stars,prs,issues&show=repos,commits&theme=dark" height="160" />
+</p>
 
-Java
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssurendiran&layout=compact&theme=dark" height="160" />
+</p>
 
-Automation frameworks (UI / API)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ssurendiran&theme=dark" height="170" />
+</p>
 
-DevOps & release engineering
+---
 
-Developer productivity platforms
+## 🤝 Open To
+- **AI Platform / Infrastructure Engineering**
+- **Agentic & Multi-Agent systems**
+- **RAG systems at scale** (quality, evals, reliability)
+- **Cloud-native AI product engineering**
 
-🧩 Tech Stack
-Programming Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,java,bash&perline=3" /> </p> > TypeScript/JavaScript: production integration & maintenance (AI-assisted for speed), primary depth in Python/Java.
-AI & Platform Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,gcp,postgres&perline=6" /> </p>
+---
 
-AI-Specific Tools
-
-LangChain / LangGraph — Agent orchestration & workflows
-
-LiteLLM — Unified LLM routing
-
-Qdrant — Hybrid vector search
-
-LangSmith — Observability & evaluation
-
-Instructor — Structured outputs
-
-HuggingFace TEI / SentenceTransformers — Encoders & Cross-Encoders
-
-vLLM — High-performance inference
-
-RAGAS — Retrieval & generation evaluation
-
-DevOps, Automation & Observability
-<p align="left"> <img src="https://skillicons.dev/icons?i=jenkins,githubactions,elasticsearch,prometheus,linux,nginx&perline=6" /> </p>
-
-Jenkins, GitHub Actions, Azure Pipelines
-
-ELK Stack, Prometheus, Grafana
-
-Selenium, REST Assured, JMeter
-
-Caddy / Nginx — TLS termination, reverse proxy
-
-Secrets management, rate limiting, audit logging
-
-🚀 Featured Project — Live
-🧠 Multi-Agent Product Intelligence Platform (GCP)
-
-Enterprise GenAI | Agentic Workflows | Multi-Agent Orchestration | Hybrid RAG
-
-Built & shipped a multi-agent RAG platform on GCP using:
-
-LangGraph-based agent orchestration
-
-Qdrant hybrid retrieval (BM25 + embeddings + RRF)
-
-Tool calling + structured outputs
-
-Stateful agents with PostgreSQL persistence
-
-CI/CD eval gates & observability
-
-Live demo: 500 products / 45K+ reviews
-
-👉 Repo + Live Demo + Architecture on portfolio
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ssurendiran&show_icons=true&include_all_commits=true&hide=stars,prs,issues&show=repos,commits&theme=dark" height="160" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssurendiran&layout=compact&theme=dark" height="160" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=ssurendiran&theme=dark" height="170" /> </p>
-🤝 Open To
-
-AI Platform / Infrastructure Engineering
-
-Agentic & Multi-Agent systems
-
-RAG systems at scale (quality, evals, reliability)
-
-Cloud-native AI product engineering
-
-📫 Reach Me
-
-LinkedIn: https://www.linkedin.com/in/surendiran-selvam1/
-
-Portfolio: https://surendiran.ai
-
-Pronouns: Suren
-
-
-
+## 📫 Reach Me
+- **LinkedIn:** https://www.linkedin.com/in/surendiran-selvam1/  
+- **Portfolio:** https://surendiran.ai  
+- **Pronouns:** Suren
