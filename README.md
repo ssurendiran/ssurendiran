@@ -5,14 +5,15 @@ Senior AI Engineer / Tech Lead — LLMOps • AgentOps • Agentic RAG • Multi
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/surendiran-selvam1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Surendiran%20Selvam-blue?style=flat&logo=linkedin&logoColor=white" />
+  <!-- ✅ Correct LinkedIn + Portfolio URLs -->
+  <a href="https://www.linkedin.com/in/surendiran-selvam1/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Surendiran%20Selvam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://surendiran.ai" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-surendiran.ai-0A0A0A?style=flat&logo=vercel&logoColor=white" />
+  <a href="https://surendiran.ai" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-surendiran.ai-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:contact@surendiran.ai" target="_blank">
-    <img src="https://img.shields.io/badge/Email-contact%40surendiran.ai-success?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:contact@surendiran.ai" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-contact%40surendiran.ai-22C55E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -29,25 +30,40 @@ I lead small teams (**3–5 engineers**) and stay hands-on—shipping reliable A
 
 ---
 
+## 🧰 Core Stack (Icons)
+
+### Platform / Infra
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,postgres,gcp,linux,githubactions,jenkins&perline=9" />
+</p>
+
+### Search / Data / Observability
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=elasticsearch,prometheus,grafana,nginx&perline=8" />
+</p>
+
+> Note: Some GenAI tools (LangGraph/LangChain/Qdrant/LangSmith/LiteLLM/vLLM/TEI/RAGAS) don’t have official skillicons, so they’re listed below.
+
+---
+
 ## ✅ What I Deliver (Production)
 
-- **Enterprise RAG platforms:** Confluence/KB ingestion, chunking + metadata strategy, embeddings, vector indexing, near-real-time updates, retrieval tuning
-- **Hybrid retrieval & vector search:** **Qdrant**, **BM25 + semantic**, **RRF**, reranking, precision/false-positive reduction
-- **Agentic AI / Multi-Agent (LangGraph):** tool calling, coordinator routing, structured outputs, validation, response synthesis, stateful workflows
-- **LLMOps / AgentOps:** evaluation & regression (**RAGAS**, **LLM-as-Judge**), hallucination controls, drift/quality monitoring, latency/cost optimization
-- **Governance-ready AI:** **guardrails**, **PII redaction**, bias mitigation, audit-friendly controls
-- **Platform engineering:** **Python**, **FastAPI**, **Docker**, **Kubernetes/Helm**, **CI/CD**, **PostgreSQL** state/checkpointing
-- **Observability:** **LangSmith traces + logs/metrics** to debug failures, reduce latency, and shorten incident/triage cycles
+- **Enterprise RAG platforms:** Confluence/KB ingestion, chunking + metadata strategy, embeddings, vector indexing, near-real-time updates, retrieval tuning  
+- **Hybrid retrieval & vector search:** **Qdrant**, **BM25 + semantic**, **RRF**, reranking, precision/false-positive reduction  
+- **Agentic AI / Multi-Agent (LangGraph):** tool calling, coordinator routing, structured outputs, validation, response synthesis, stateful workflows  
+- **LLMOps / AgentOps:** evaluation & regression (**RAGAS**, **LLM-as-Judge**), hallucination controls, drift/quality monitoring, latency/cost optimization  
+- **Governance-ready AI:** **guardrails**, **PII redaction**, bias mitigation, audit-friendly controls  
+- **Observability:** **LangSmith traces + logs/metrics** to debug failures, reduce latency, and shorten incident/triage cycles  
 
 ---
 
 ## 📈 Impact Highlights
 
-- **Cut ingestion runtime 35–45%** and improved KB quality via extraction/normalization standards
-- **Improved hybrid retrieval 25–35%**, reduced false positives **20–30%**, improved precision
-- **Reduced P95 latency 20–25%** and cut triage time **50–60%** using trace/log-driven troubleshooting
-- Delivered **policy-aware agent workflows ~90% accuracy**, serving **hundreds of daily users**
-- Drove ~**40% cost reduction** through vendor/tooling decisions while maintaining quality
+- **Cut ingestion runtime 35–45%** and improved KB quality via extraction/normalization standards  
+- **Improved hybrid retrieval 25–35%**, reduced false positives **20–30%**, improved precision  
+- **Reduced P95 latency 20–25%** and cut triage time **50–60%** using trace/log-driven troubleshooting  
+- Delivered **policy-aware agent workflows ~90% accuracy**, serving **hundreds of daily users**  
+- Drove ~**40% cost reduction** through vendor/tooling decisions while maintaining quality  
 
 ---
 
@@ -60,8 +76,8 @@ I lead small teams (**3–5 engineers**) and stay hands-on—shipping reliable A
 - **Decoder (LLM):** **Llama 3.x / 4.x Instruct (8B)** via **vLLM**
 - **Encoder (Embeddings):** **BAAI BGE v1.x**
 - **Cross-Encoder (Reranking):** **BGE Reranker**
-- **Sentence-Transformers** in the application layer
-- At scale: **Hugging Face TEI** services
+- **Sentence-Transformers** in the application layer  
+- At scale: **Hugging Face TEI** services  
 - **Classifier:** **BGE embeddings** with **optional cross-encoder validation** (higher precision routing)
 
 ---
@@ -79,38 +95,12 @@ A production-style **multi-agent RAG platform** built on **GCP**, featuring:
 - **Provider routing** (cloud + local) and **observability-first design**
 - Demo scale: **500 products / 45,948 reviews**
 
-👉 Portfolio: https://surendiran.ai
+👉 **Portfolio:** https://surendiran.ai
 
 ---
 
-## 🧩 Core Skills
-
-### AI / GenAI
-**LangGraph • LangChain • RAG • Hybrid Search • Qdrant • BM25 • RRF • Reranking • Tool Calling • Structured Outputs • Instructor • LiteLLM • RAGAS • LLM-as-Judge • Guardrails • Token Budgeting • Regression/Drift • Safety Controls • vLLM • TEI • SentenceTransformers • Encoders/Cross-Encoders/Classifiers**
-
-### Platform / Infra
-**Python • FastAPI • PostgreSQL • SQL • Docker • Kubernetes • Helm • CI/CD (GitHub Actions/Jenkins/Azure Pipelines) • Caddy/Nginx • TLS • Rate Limiting • Secrets Management • Audit Logging**
-
-### Observability
-**LangSmith • Logs/Metrics • Dashboards • Tracing • Latency/Cost Optimization • Incident/Triage Reduction**
-
----
-
-## 🎓 Certifications
-- **Google Cloud Professional Machine Learning Engineer (2025)**
-- **Certified Kubernetes Administrator — CKA (2025)**
-- **Microsoft AI-900: Azure AI Fundamentals (2025)**
-
----
-
-## ✍️ Writing / Publications
-- Medium: https://medium.com/@surendiran-ai/the-modern-ai-product-lifecycle-for-enterprise-platforms-e631f13a7bbc
-- Blog: https://www.surendiran.ai/blog
-
----
-
-## 🏆 Awards
-- **Super Encorian (2024)**
+## 🧩 Keywords 
+**LangGraph • LangChain • Agentic RAG • Multi-Agent Systems • Qdrant • Hybrid Search • BM25 • RRF • Reranking • vLLM • TEI • BGE • SentenceTransformers • LiteLLM • Instructor • Structured Outputs • PostgreSQL • FastAPI • Docker • Kubernetes • Helm • CI/CD • LangSmith • RAGAS • LLM-as-Judge • Guardrails • PII Redaction • Observability**
 
 ---
 
@@ -120,7 +110,7 @@ A production-style **multi-agent RAG platform** built on **GCP**, featuring:
 ---
 
 ## 📫 Reach Me
-- **Email:** contact@surendiran.ai
-- **LinkedIn:** https://www.linkedin.com/in/surendiran-selvam1/
-- **Portfolio:** https://surendiran.ai
+- **Email:** contact@surendiran.ai  
+- **LinkedIn:** https://www.linkedin.com/in/surendiran-selvam1/  
+- **Portfolio:** https://surendiran.ai  
 - **Pronouns:** Suren
