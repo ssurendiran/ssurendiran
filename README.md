@@ -4,19 +4,6 @@
 Senior AI Engineer / Tech Lead — LLMOps • AgentOps • Agentic RAG • Multi-Agent Systems • AI Platform & Infrastructure
 </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/surendiran-selvam1/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Surendiran%20Selvam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://surendiran.ai" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-surendiran.ai-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:contact@surendiran.ai" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-contact%40surendiran.ai-22C55E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
 
 ## 👨‍💻 About Me
 
@@ -26,20 +13,6 @@ I lead small teams (**3–5 engineers**) and stay hands-on—shipping reliable A
 **ingestion → retrieval → agents → evals/guardrails → observability → cloud deployment**.
 
 > **Platform engineering applied to AI**: repeatable, observable, scalable, production-safe (not experimentation).
-
----
-
-## 🧰 Core Stack (Icons)
-
-### Platform / Infra
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,postgres,gcp,linux,githubactions,jenkins&perline=9" />
-</p>
-
-### Search / Data / Observability
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=elasticsearch,prometheus,grafana,nginx&perline=8" />
-</p>
 
 ---
 
@@ -64,6 +37,32 @@ I lead small teams (**3–5 engineers**) and stay hands-on—shipping reliable A
 
 ---
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/surendiran-selvam1/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Surendiran%20Selvam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://surendiran.ai" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-surendiran.ai-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:contact@surendiran.ai" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-contact%40surendiran.ai-22C55E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+## 🧰 Core Stack (Icons)
+
+### Platform / Infra
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,postgres,gcp,linux,githubactions,jenkins&perline=9" />
+</p>
+
+### Search / Data / Observability
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=elasticsearch,prometheus,grafana,nginx&perline=8" />
+</p>
+
+---
 ## 🧠 GenAI Stack
 
 ### ☁️ Cloud
