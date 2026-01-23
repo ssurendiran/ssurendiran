@@ -5,7 +5,6 @@ Senior AI Engineer / Tech Lead — LLMOps • AgentOps • Agentic RAG • Multi
 </h3>
 
 <p align="center">
-  <!-- ✅ Correct LinkedIn + Portfolio URLs -->
   <a href="https://www.linkedin.com/in/surendiran-selvam1/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Surendiran%20Selvam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -23,14 +22,14 @@ Senior AI Engineer / Tech Lead — LLMOps • AgentOps • Agentic RAG • Multi
 
 **Senior AI Platform Engineer / Tech Lead** with **10+ years building scalable engineering systems** and **3+ years delivering production GenAI platforms** in **regulated environments (financial services)**.
 
-I lead teams  and stay hands-on—shipping reliable AI services end-to-end from:  
+I lead small teams (**3–5 engineers**) and stay hands-on—shipping reliable AI services end-to-end from:  
 **ingestion → retrieval → agents → evals/guardrails → observability → cloud deployment**.
 
 > **Platform engineering applied to AI**: repeatable, observable, scalable, production-safe (not experimentation).
 
 ---
 
-## 🧰 Core Stack
+## 🧰 Core Stack (Icons)
 
 ### Platform / Infra
 <p align="left">
@@ -41,8 +40,6 @@ I lead teams  and stay hands-on—shipping reliable AI services end-to-end from:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=elasticsearch,prometheus,grafana,nginx&perline=8" />
 </p>
-
-> Note: Some GenAI tools (LangGraph/LangChain/Qdrant/LangSmith/LiteLLM/vLLM/TEI/RAGAS) don’t have official skillicons, so they’re listed below.
 
 ---
 
@@ -82,6 +79,19 @@ I lead teams  and stay hands-on—shipping reliable AI services end-to-end from:
 
 ---
 
+## 🧩 Tools (No Icons Available)
+- **LangGraph / LangChain** — multi-agent orchestration & workflows  
+- **Qdrant** — vector DB + hybrid search  
+- **LangSmith** — tracing, observability, evaluation  
+- **LiteLLM** — unified LLM API + provider routing  
+- **vLLM** — high-performance inference serving  
+- **Hugging Face TEI** — scalable embedding/rerank serving  
+- **RAGAS** — RAG evaluation & regression tests  
+- **Instructor** — type-safe structured outputs  
+- **SentenceTransformers** — encoders / cross-encoders in-app  
+
+---
+
 ## 🚀 Featured Portfolio Project — Live
 
 ### 🧠 Multi-Agent Product Intelligence Platform (GCP)
@@ -99,8 +109,8 @@ A production-style **multi-agent RAG platform** built on **GCP**, featuring:
 
 ---
 
-## 🧩 Keywords 
-**LangGraph • LangChain • Agentic RAG • Multi-Agent Systems • Qdrant • Hybrid Search • BM25 • RRF • Reranking • vLLM • TEI • BGE • SentenceTransformers • LiteLLM • Instructor • Structured Outputs • PostgreSQL • FastAPI • Docker • Kubernetes • Helm • CI/CD • LangSmith • RAGAS • LLM-as-Judge • Guardrails • PII Redaction • Observability**
+## 🧩 Keywords (ATS-friendly)
+**Agentic RAG • Multi-Agent Systems • LangGraph • LangChain • Qdrant • Hybrid Search • BM25 • RRF • Reranking • BGE • SentenceTransformers • LiteLLM • vLLM • TEI • LangSmith • RAGAS • LLM-as-Judge • Guardrails • PII Redaction • Observability • Python • FastAPI • Docker • Kubernetes • Helm • PostgreSQL • CI/CD**
 
 ---
 
