@@ -27,7 +27,7 @@ Senior AI Engineer / Tech Lead — LLMOps • AgentOps • Agentic RAG • Multi
 
 ## 👨‍💻 About Me
 
-**Senior AI Platform Engineer / Tech Lead** with **10+ years building scalable engineering systems** and **3+ years delivering production GenAI platforms** in **regulated environments (financial services)**.
+**Senior AI Engineer / Tech Lead** with **10+ years building scalable engineering systems** and **3+ years delivering production GenAI platforms** in **regulated environments (financial services)**.
 
 I lead small teams (**3–5 engineers**) and stay hands-on—shipping reliable AI services end-to-end from:  
 **ingestion → retrieval → agents → evals/guardrails → observability → cloud deployment**.
