@@ -79,7 +79,7 @@ I lead small teams (**3–5 engineers**) and stay hands-on—shipping reliable A
 
 ---
 
-## 🧩 Tools (No Icons Available)
+## 🧩 Tools 
 
 - **LangGraph / LangChain** — multi-agent orchestration & workflows
 - **Qdrant** — vector DB + hybrid search
@@ -110,7 +110,7 @@ A production-style **multi-agent RAG platform** built on **GCP**, featuring:
 
 ---
 
-## 🧩 Keywords (ATS-friendly)
+## 🧩 Keywords
 **Agentic RAG • Multi-Agent Systems • LangGraph • LangChain • Qdrant • Hybrid Search • BM25 • RRF • Reranking • BGE • SentenceTransformers • LiteLLM • vLLM • TEI • LangSmith • RAGAS • LLM-as-Judge • Guardrails • PII Redaction • Observability • Python • FastAPI • Docker • Kubernetes • Helm • PostgreSQL • CI/CD**
 
 ---
