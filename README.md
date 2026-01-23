@@ -49,24 +49,61 @@ I lead small teams (**3–5 engineers**) and stay hands-on—shipping reliable A
 
 ## 📈 Impact Highlights
 
-- **Cut ingestion runtime 35–45%** and improved KB quality via extraction/normalization standards  
-- **Improved hybrid retrieval 25–35%**, reduced false positives **20–30%**, improved precision  
-- **Reduced P95 latency 20–25%** and cut triage time **50–60%** using trace/log-driven troubleshooting  
-- Delivered **policy-aware agent workflows ~90% accuracy**, serving **hundreds of daily users**  
-- Drove ~**40% cost reduction** through vendor/tooling decisions while maintaining quality  
+- **Cut ingestion runtime 35–45%** and improved KB quality via extraction/normalization standards
+- **Improved hybrid retrieval 25–35%**, reduced false positives **20–30%**, improved precision
+- **Reduced P95 latency 20–25%** and cut triage time **50–60%** using trace/log-driven troubleshooting
+- Delivered **policy-aware agent workflows ~90% accuracy**, serving **hundreds of daily users**
+- Drove ~**40% cost reduction** through vendor/tooling decisions while maintaining quality
 
 ---
 
-## 🧰 Core Stack
+## 🧰 Core Stack (Clickable Icons)
 
 ### Platform / Infra
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,postgres,gcp,linux,githubactions,jenkins&perline=9" />
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+  </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" />
+  </a>
+  <a href="https://www.kernel.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  </a>
+  <a href="https://docs.github.com/actions" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" />
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" />
+  </a>
 </p>
 
 ### Search / Data / Observability
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=elasticsearch,prometheus,grafana,nginx&perline=8" />
+  <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" />
+  </a>
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" />
+  </a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" />
+  </a>
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" />
+  </a>
 </p>
 
 ---
@@ -80,23 +117,32 @@ I lead small teams (**3–5 engineers**) and stay hands-on—shipping reliable A
 - **Decoder (LLM):** **Llama 3.x / 4.x Instruct (8B)** via **vLLM**
 - **Encoder (Embeddings):** **BAAI BGE v1.x**
 - **Cross-Encoder (Reranking):** **BGE Reranker**
-- **Sentence-Transformers** in the application layer  
-- At scale: **Hugging Face TEI** services  
-- **Classifier:** **BGE embeddings** with **optional cross-encoder validation**
+- **Sentence-Transformers** in the application layer
+- At scale: **Hugging Face TEI** services
+- **Classifier:** **BGE embeddings** with **optional cross-encoder validation** (higher precision routing)
 
 ---
 
-## 🧩 Tools
+## 🧩 Tools (Clickable Links)
 
-- **LangGraph / LangChain** — multi-agent orchestration & workflows
-- **Qdrant** — vector DB + hybrid search
-- **LangSmith** — tracing, observability, evaluation
-- **LiteLLM** — unified LLM API + provider routing
-- **vLLM** — high-performance inference serving
-- **Hugging Face TEI** — scalable embedding/rerank serving
-- **RAGAS** — RAG evaluation & regression tests
-- **Instructor** — type-safe structured outputs
-- **SentenceTransformers** — encoders / cross-encoders in-app
+- **LangGraph / LangChain** — multi-agent orchestration & workflows  
+  https://github.com/langchain-ai/langgraph • https://github.com/langchain-ai/langchain
+- **Qdrant** — vector DB + hybrid search  
+  https://qdrant.tech/
+- **LangSmith** — tracing, observability, evaluation  
+  https://www.langchain.com/langsmith
+- **LiteLLM** — unified LLM API + provider routing  
+  https://github.com/BerriAI/litellm
+- **vLLM** — high-performance inference serving  
+  https://github.com/vllm-project/vllm
+- **Hugging Face TEI** — scalable embedding/rerank serving  
+  https://github.com/huggingface/text-embeddings-inference
+- **RAGAS** — RAG evaluation & regression tests  
+  https://github.com/explodinggradients/ragas
+- **Instructor** — type-safe structured outputs  
+  https://github.com/instructor-ai/instructor
+- **SentenceTransformers** — encoders / cross-encoders  
+  https://www.sbert.net/
 
 ---
 
@@ -131,7 +177,7 @@ A production-style **multi-agent RAG platform** built on **GCP**, featuring:
 
 ## 📫 Reach Me
 
-- **Email:** contact@surendiran.ai  
-- **LinkedIn:** https://www.linkedin.com/in/surendiran-selvam1/  
-- **Portfolio:** https://surendiran.ai  
+- **Email:** contact@surendiran.ai
+- **LinkedIn:** https://www.linkedin.com/in/surendiran-selvam1/
+- **Portfolio:** https://surendiran.ai
 - **Pronouns:** Suren
