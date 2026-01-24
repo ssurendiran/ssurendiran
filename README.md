@@ -26,7 +26,7 @@ Senior AI Engineer / Tech Lead — LLMOps • AgentOps • Agentic RAG • Multi
 
 ---
 
-## 🚀 Featured Project (Start here)
+## 🚀 Featured Project 
 
 ### 🧠 Multi-Agent Product Intelligence Platform (GCP)
 **Agentic Workflows • Multi-Agent Orchestration • Hybrid RAG • Stateful Agents • Evals/Observability**
