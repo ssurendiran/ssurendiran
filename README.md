@@ -18,7 +18,7 @@ Senior AI Engineer / Tech Lead — LLMOps • AgentOps • Agentic RAG • Multi
 
 ---
 
-## ⚡ TL;DR (What I build)
+## ⚡ What I build
 - **Production GenAI platforms**: ingestion → retrieval → **agents** → evals/guardrails → observability → cloud deployment  
 - **Agentic RAG** with **LangGraph**: routers, tool-calling, stateful workflows, validation + synthesis  
 - **Hybrid retrieval**: BM25 + vectors + **RRF** + reranking (precision-first)  
