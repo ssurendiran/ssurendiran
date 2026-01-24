@@ -76,7 +76,7 @@ I lead teams and stay hands-on—shipping reliable AI services end-to-end with a
 
 ---
 
-## 🧰 Core Stack (Clickable Icons)
+## 🧰 Core Stack 
 
 ### Platform / Infra
 <p align="left">
