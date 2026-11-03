@@ -23,7 +23,7 @@ Multi-cloud AI infrastructure, model gateways, distributed execution, AgentOps, 
 AI-driven SDLC systems spanning research, architecture, coding, testing, validation, deployment, and feedback loops.
 
 **🔐 Autonomous Security Research**
-Multi-agent vulnerability research and bug bounty automation using open-weight models, reverse engineering, and reproducible verification.
+Multi-agent vulnerability research .
 
 **🥽 AI-Powered VR Gaming**
 Building CHRONOREALM for Meta Quest 3 — exploring immersive worlds, intelligent NPCs, spatial computing, and interactive storytelling.
