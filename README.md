@@ -72,7 +72,6 @@ Engineering intelligent cybersecurity systems combining autonomous agents, progr
 
 - AI-assisted vulnerability discovery and analysis
 - Static and dynamic application security testing
-- Reverse engineering and automated code analysis
 - Specialized open-weight security and reasoning models
 - Multi-agent verification and reproducible validation
 - Automated evidence collection and security reporting
